@@ -1,13 +1,11 @@
 ### Hi, I'm Majid Kamyab 👋 — looking for a job as a Data Scientist.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majid-kamyab-bb031a152/)](https://www.linkedin.com/in/majid-kamyab-bb031a152/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com/notes)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
+Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems.
 
-- 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
+- 🌱 I’m currently learning *Azure Machine Learning Studio* & *AWS*.
+- 🔥 Most proud of -- [Math2IT](https://era.library.ualberta.ca/items/7cfade5e-b0fe-4428-9770-f3eddcae6afb/download/87ef967e-3ff7-4695-bd3f-a0879541e766), a research about using RL in drone control.
 - 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
