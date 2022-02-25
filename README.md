@@ -3,15 +3,22 @@
 </h1>
 
 <p align='center'>
-  A data scientist from Calgary, Canada.
+  An Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems from Calgary, Canada.
 <p align='center'>
 
 <a href="https://www.linkedin.com/in/majid-kamyab-bb031a152/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+</p>
 
-Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems.
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MKamyab1991&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
 
 - 🌱 I’m currently learning *Azure Machine Learning Studio* & *Streamlit*.
 - 🔥 Most proud of -- [Low-Level control of small scale helicopter using Soft Actor-Critic method](https://era.library.ualberta.ca/items/7cfade5e-b0fe-4428-9770-f3eddcae6afb/download/87ef967e-3ff7-4695-bd3f-a0879541e766), which is my thesis in UofA.
@@ -45,23 +52,7 @@ Technologies I've been learning and using so far :
 
 
   
-</p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
