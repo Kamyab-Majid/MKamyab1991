@@ -1,6 +1,15 @@
-### Hi, I'm Majid Kamyab 👋 — looking for a job as a Data Scientist.
+    <h1 align='center'>
+  Hi there 👋 I'm Majid 👨‍💻
+</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/majid-kamyab-bb031a152/)](https://www.linkedin.com/in/majid-kamyab-bb031a152/)
+<p align='center'>
+  A data scientist from Calgary, Canada.
+<p align='center'>
+
+<a href="https://www.linkedin.com/in/majid-kamyab-bb031a152/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems.
 
@@ -30,24 +39,11 @@ Technologies I've been learning and using so far :
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
     
     
-    <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
-</h1>
-
-<p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
-</p>
 
 
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+
+
   
 </p>
 
