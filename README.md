@@ -1,4 +1,4 @@
-    <h1 align='center'>
+<h1 align='center'>
   Hi there 👋 I'm Majid 👨‍💻
 </h1>
 
