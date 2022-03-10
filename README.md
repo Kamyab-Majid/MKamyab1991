@@ -6,7 +6,7 @@
   An Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems from Calgary, Canada.
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/majid-kamyab-bb031a152/">
+<a href="https://github.com/MKamyab1991">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
