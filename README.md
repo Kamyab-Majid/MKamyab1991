@@ -36,7 +36,7 @@ Technologies I've been learning and using so far :
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]
     [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
 - Data Engineering: <br />
-  [![PyTspark](https://img.shields.io/badge/-Pyspark-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
+  [![PyTspark](https://img.shields.io/badge/-Pyspark-eee?style=flat-square&logo=Pyspark&logoColor=EE4C2C)]
   [![Glue](https://img.shields.io/badge/-Glue-eee?style=flat-square&logo=Glue&logoColor=EE4C2C)]
 
 - Frontend : <br />
