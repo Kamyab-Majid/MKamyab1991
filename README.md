@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  An Experienced Data Scientist Researcher skilled in Python focused on Machine Learning, Deep Learning and Control systems from Calgary, Canada.
+  An Experienced Developer skilled in data engineeering and Machine Learning, Deep Learning from Toronto, Canada.
 <p align='center'>
 
 <a href="https://github.com/MKamyab1991">
@@ -20,7 +20,7 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-- 🌱 I’m currently learning *Azure Machine Learning Studio* & *Streamlit*.
+- 🌱 I’m currently learning *AWS associate solution architect* & *Machine learning specialty*.
 - 🔥 Most proud of -- [Low-Level control of small scale helicopter using Soft Actor-Critic method](https://era.library.ualberta.ca/items/7cfade5e-b0fe-4428-9770-f3eddcae6afb/download/87ef967e-3ff7-4695-bd3f-a0879541e766), which is my thesis in UofA.
 
 <p align='center'>
