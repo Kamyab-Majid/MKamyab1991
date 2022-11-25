@@ -38,6 +38,7 @@ Technologies I've been learning and using so far :
 - Data Engineering:
   [![PyTspark](https://img.shields.io/badge/-Pyspark-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
   [![Glue](https://img.shields.io/badge/-Glue-eee?style=flat-square&logo=Glue&logoColor=EE4C2C)]
+
 - Frontend : <br />
     [![Streamlit](https://img.shields.io/badge/-Streamlit-eee?style=flat-square&logo=streamlit&logoColor=2496ed)]
 - Backend : <br />
