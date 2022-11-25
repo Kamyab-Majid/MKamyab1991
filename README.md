@@ -35,7 +35,7 @@ Technologies I've been learning and using so far :
     [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)]
     [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)]
     [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
-- Data Engineering:
+- Data Engineering: <br />
   [![PyTspark](https://img.shields.io/badge/-Pyspark-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)]
   [![Glue](https://img.shields.io/badge/-Glue-eee?style=flat-square&logo=Glue&logoColor=EE4C2C)]
 
